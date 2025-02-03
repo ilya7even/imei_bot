@@ -56,5 +56,11 @@ pip install -r requirements.txt
 python -m bot.bot
 ```
 
-## Исполь
+## Использование
+
+Откройте бота в Telegram и начните диалог.
+
+## Совместимость
+
+Протестировано на Python 3.13.1.
 
