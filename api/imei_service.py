@@ -16,7 +16,7 @@ headers = {
 def check_imei(imei: str) -> str:
     body = {
         "deviceId": imei,
-        "serviceId": 12  # Указанный serviceId для проверки
+        "serviceId": 12  # Ваш serviceId для проверки
     }
 
     try:
